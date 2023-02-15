@@ -2,6 +2,8 @@
 Ifestus Launcher made by Ifestus.
 
 Basit bir arayüzü olan kullanımı kolay Minecraft Launcher.
+Kod tamamen bana aittir.
+
 
 Bazı Güncel Sorunlar
 
