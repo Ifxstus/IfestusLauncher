@@ -7,6 +7,8 @@ Kod tamamen bana aittir.
 
 Bazı Güncel Sorunlar
 
+uygulamayı indirmekte sorun yaşayanlar için ana sayfadaki code butonunda basıp zip olarak indir diyebilirsiniz.
+
 İndirmeye çalıştığınızda defender virüs olarak algılıyıp indirmenize engel olabilir. visual studio forms dosyası olduğundan kaynaklıdır.
 defenderı devre dışı bırakıp tekrar deneyin.(Kodda virüs olması söz konusu değildir. Virustotalde taratabilirsiniz.)
 
