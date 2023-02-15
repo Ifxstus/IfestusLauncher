@@ -7,6 +7,9 @@ Kod tamamen bana aittir.
 
 Bazı Güncel Sorunlar
 
+İndirmeye çalıştığınızda defender virüs olarak algılıyıp indirmenize engel olabilir. visual studio forms dosyası olduğundan kaynaklıdır.
+defenderı devre dışı bırakıp tekrar deneyin.(Kodda virüs olması söz konusu değildir. Virustotalde taratabilirsiniz.)
+
 -Farklı Versionlara ilk girişte uzun bir zaman alabilir. Bekleyin sizi oyuna atacaktır
 (Aynı sürüme tekrar girdiğinizde bu kadar bekletmeyecektir.)
 
